@@ -4,7 +4,7 @@
 
 code: `person_traffic.sql`
 
-output files: `./output/sql/screenshot.png`
+output files: `screenshot.png`
 
 ## Programming
 

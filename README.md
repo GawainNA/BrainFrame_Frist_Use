@@ -1,5 +1,11 @@
 # BrainFrame_first_use
 
+## Dashboard
+
+code: `person_traffic.sql`
+
+output files: `./output/sql/screenshot`
+
 ## Programming
 
 ### Crop persons and faces
